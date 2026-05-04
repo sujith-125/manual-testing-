@@ -1,7 +1,17 @@
 1)Difference between QA and QC
 QA (Quality Assurance)
-  QA is a proactive ,proccess oriented approach that aim to prevent defects by improve developement processes
+  *QA is a proactive ,proccess oriented approach that aim to prevent defects by improve developement processes.
+  *Goal: Prevent defects
+  *Focus: Processes and procedures
+  *Activities: Process design, documentation, audits, training, standardization
+  *Timeline : occurs throughout entier product life cycel ,before and during developement.
+  *Responsibility : involves  the entire team 
 QC(Quality Control)
   QC is reactive ,product oriented approch that  aim to prevent detect and correct defect.
+  *Goal: Detect defects
+  *Focus: Final product/output
+  *Activities: Inspection, testing, sampling, validation
+  *Time line : primarlky occurs at the end of developement cycle ,during the testing phase .
+  *Responsibility : usually performed by a  quality control team and specific person.
 Explain in detail about STLC
   
