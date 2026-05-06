@@ -16,4 +16,31 @@ QC(Quality Control)
 
 2)Explain in detail about STLC
    Software Tesing Life Cycle(STLC);
+1. Requirement Analysis
+
+Testers study requirements to identify what needs testing.
+Understand functional & non-functional requirements
+Identify testable areas
+Prepare RTM (Requirement Traceability Matrix)
+2. Test Planning
+Defines the strategy for testing.
+Decide scope, objectives, resources
+Choose tools & testing types
+Estimate time & cost
+Deliverable: Test Plan Document
+3. Test Case Development
+Creation of test scenarios and cases.
+Write test cases & test scripts Prepare test data Review and finalize test cases
+4. Test Environment Setup
+Prepare the environment where testing happens.
+Smoke testing to verify setup
+5. Test Execution
+Actual testing phase.
+Run test cases
+Log defects (bugs)
+Retest & perform regression testing
+6. Test Closure
+Wrap-up and evaluation.
+Check test coverage Prepare test summary report and identify
+
 
