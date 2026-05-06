@@ -1,0 +1,25 @@
+Explain in detail about deliverables in software testing
+
+  Deliverables in software testing are the tangible outputs created throughout the testing process, including documents, reports, 
+and other artifacts that provide information about the testing efforts and the quality of the software.
+  Key deliverables include the test plan, test cases, test scripts, test data, defect reports, and various test reports,
+such as the test summary report, which are shared with stakeholders to ensure requirements are met.  
+
+> Before testing
+•Test Strategy
+•Test Plan
+•Requirement Traceability Matrix
+•Test Cases
+•Test Scripts
+•Test Data
+•Test Environment Setup
+•Daily Status Reports
+•Defect Reports / Incident Reports.
+•Test Execution Reports.
+•Code Coverage Reports.
+> After testing
+•Test Summary Report
+•Defect Analysis Report.
+•User Acceptance Testing (UAT) Results
+•Release Notes
+•Test Closure Report.
